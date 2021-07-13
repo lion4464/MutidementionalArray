@@ -8,6 +8,7 @@ class eighth_01{
 			{8,9,0,1}
 		};
 		
+		
 		// --------------create new array to store sum of row----------------
 		
 		double[] newSarr=new double[Newarr.length];
