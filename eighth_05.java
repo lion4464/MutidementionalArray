@@ -5,6 +5,8 @@ public class eighth_05{
 			{1,4,3},
 			{2,3,5}
 		};
+
+
 		//-----------------ennounse b matrix-------
 		double[][] b_matrix={
 			{4,1,2},
