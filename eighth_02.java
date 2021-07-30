@@ -1,5 +1,5 @@
 import java.util.*;
-public class eighth_01{
+public class eighth_02{
 
 	public static void main(String[] args) {
 		Scanner input=new Scanner(System.in);
