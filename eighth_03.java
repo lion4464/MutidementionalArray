@@ -33,7 +33,6 @@ class eight_03{
 	// ------------------------------------------------------
 	// Call methed to find amount of right answer!!!!
 	// ------------------------------------------------------
-		
 		CheckAnswer(Newarr,AnswerArr);
 	}
 	public static void CheckAnswer(char[][] Newarr,char[] AnswerArr){
