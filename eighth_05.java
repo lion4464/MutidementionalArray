@@ -22,7 +22,6 @@ public class eighth_05{
 	}
 	// addMatrix method
 	public static double[][] addMatrix(double[][] a, double[][] b){
-		// create new MULTIDEMENTION ARRAY
 		double[][] c=new double[a.length][a[0].length];
 		for (int i=0;i<a.length;i++) {
 			for (int j=0;j<a[i].length;j++) {
